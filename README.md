@@ -1,7 +1,7 @@
 # maple-pccp-workflows
 # Maple computational scripts and data for PCCP submission
 
-This repository contains the Maple 2024.1 scripts and supporting data used in the PCCP manuscript "<The geometric role of the time parameter in DNA base-pair genetic information exchange and assembly: Applications of Frenet-Serret formulas to circular and elliptical helix models>".
+This repository contains the Maple 2024.1 scripts and supporting data used in the PCCP manuscript "The geometric role of the time parameter in DNA base-pair genetic information exchange and assembly: Applications of Frenet-Serret formulas to circular and elliptical helix models".
 
 ## Contents
 - `helix arc length data.m` : main script to reproduce symbolic, numerical calculations and output data.
